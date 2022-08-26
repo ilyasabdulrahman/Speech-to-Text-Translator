@@ -1,4 +1,4 @@
 # Speech Recognizer
-Make sure to install the SpeechRecognition API.
+Make sure to install the SpeechRecognition API and translate API.
 
-Uses the SpeechRecognition API to detect what two people are saying with Google speech-to-text.
+Can translate a conversation between what one person is saying to the other person's preferred language and vice versa.
